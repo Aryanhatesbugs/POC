@@ -1,5 +1,5 @@
 
-Also there would be a file names mentioned as "Untitled Folder" I understand it good to keep a 
+There would be a file names mentioned as "Untitled Folder" I understand it good to keep a 
 revelant name  but on colab the folder was not able to get renamed I tried but eventually had to keep "Untitled Folder"
 
 If running on colab make sure to use T4 as your gpu
