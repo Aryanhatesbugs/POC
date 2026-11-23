@@ -1,4 +1,3 @@
-In the notebook there is a cod for Fast APi ,which does not work in COLAB so do not run it 
 
 Also there would be a file names mentioned as "Untitled Folder" I understand it good to keep a 
 revelant name  but on colab the folder was not able to get renamed I tried but eventually had to keep "Untitled Folder"
